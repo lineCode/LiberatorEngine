@@ -3,10 +3,9 @@
 ## Description
 A 3D game engine for creating high quality 3D scene. I spend 1 year to write the game engine during the last year of my college, and also reconstruct it few times. The name comes from a song called Liberator, by Epic score. Because the song sounds like 
 Battle Of Nightfall.Since it was the last fight in the cage, i would unlock it once i finish the engine and be free. Anyway i'll rename it if i think out a better one. Hopefully, it was done before the end of college. And i put it into my graduation thesis but 
-unfortunately, i cant get full mark. <br>
+unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 
 ### If you're not Chinese, please skip the section below. <br>
-
 <pre>
  事实上是上机演示前没准备好，那个老师的关注点不对啦。 引擎特性多也写了很多优化，最后能让人看到的只有一个编辑器和用编辑器做
 出来的一个场景demo。 那老师也是了解过3D的东西的，还问有没有实现光照阴影啊、AA啊，既然是一个引擎怎么可能没有这些呢，都是最
@@ -15,6 +14,7 @@ unfortunately, i cant get full mark. <br>
 什么没见过“，答辩让我们1分钟讲完。 我又不能容忍花了很多心血做的引擎被说成”那些系统“，答辩的时候ZHUANG B了一下，那老师又
 不懂，只能从论文里强行找bug，给的成绩也不是优。
 </pre>
+
 
 <br>
 <br>
