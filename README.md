@@ -76,3 +76,20 @@ is persistent!!!
 
 ***
 
+<br>
+<br>
+<br>
+<br>
+
+### Samples
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard.png)
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%873.png)
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%871.png)
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
+
+
+
+
+
+
+
