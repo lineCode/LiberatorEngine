@@ -82,6 +82,18 @@ is persistent!!!
 <br>
 
 # Samples
+
+Completed at 2017.5.18
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard.png)
 <br>
 <br>
