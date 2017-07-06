@@ -1,6 +1,9 @@
 # LiberatorEngine
+
+## Description
 A 3D game engine for creating high quality 3D scene. I spend 1 year to write the game engine during the last year of my college, and also reconstruct it few times. The name comes from a song called Liberator, by Epic score. Because the song sound like battle of nightfall.Since it was the last fight in the cage, i would unlock it once i finish it and be free. Anyway i'll rename it if i think out a better one. Hopefully, i finished it before the end of college. And i use it as my graduation thesis but unfortunately, i cant get full mark. <br>
-If you're not Chinese, please skip the section below. <br>
+
+### If you're not Chinese, please skip the section below. <br>
 
 <pre>
  事实上是上机演示前没准备好，那个老师的关注点不对啦。 引擎特性多也写了很多优化，最后能让人看到的只有一个编辑器和用编辑器做
