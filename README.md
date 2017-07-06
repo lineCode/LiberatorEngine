@@ -35,7 +35,6 @@ it by few lines of codes.
 ***
 ## Editor 
 ***
-
 The editor is designed to edit the scene, view the models, etc. Since the engine is entity-component based, so you can
 modify component and material in the editor. Everything will be stream to a xml scene file, everything is persistent!!!
 
