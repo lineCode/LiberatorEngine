@@ -81,14 +81,26 @@ is persistent!!!
 <br>
 <br>
 
-### Samples
+# Samples
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard.png)
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%873.png)
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%871.png)
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
