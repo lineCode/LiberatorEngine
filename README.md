@@ -1,7 +1,7 @@
 # LiberatorEngine
 
 ## Description
-A 3D game engine for creating high quality 3D scene. I spend 1 year to write the game engine during the last year of my college, and also reconstruct it few times. The name comes from a song called Liberator, by Epic score. Because the song sounds like 
+A 3D game engine for creating high quality 3D scene. I spend 1 year to write the game engine during the last year of my college, and also reconstruct it few times. The name comes from a song called Liberators, by Epic score. Because the song sounds like 
 Battle Of Nightfall.Since it was the last fight in the cage, i would unlock it once i finish the engine and be free. Anyway i'll rename it if i think out a better one. Hopefully, it was done before the end of college. And i put it into my graduation thesis but 
 unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 
@@ -21,15 +21,17 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 <br>
 
 # Targets
-- 
+- a graphic engineer oriented engine
+- easy to drive
 
 
-# features
-***
+# Features
+
+
 ## General
 - entity-component
 
-***
+
 ## Math
 - an in-house math lib
 
@@ -49,23 +51,18 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 
  <pre>
   The renderer is totally data-driven, which allow you to modify the renderpath to config any 
-combinated frames you want. e.g. reflection-refrection water, screen-based fog, bloom, volumetric light, 
-SSAO, and even you can easily switch between forward and defferred rendering. The engine also has a 
-customized material system. Basically the material file is a xml, which composite of shader, variables, 
-textures. There, you can pass whatever you want to the shader through the xml, even a RenderTarget on the 
-fly, which contain the drawed result based on your renderpath, and that is up to you. So-what skybox, 
-reflection-refrecion water, trasparent things will all be easy stuff, haha. Togeter with the renderpath and 
-material system, you can config whatever frames, and can test a graphic algorithm efficiently with few little 
-xml files.  
+combinated frames you want. The engine also has a customized material system. Basically the material 
+file is a xml, which composite of shader, variables, textures. There, you can pass whatever you want 
+to the shader through the xml, even a RenderTarget on the fly, which holds the drawed result based on your 
+renderpath, and that is up to you. So-what skybox, reflection-refrecion water, trasparent things will all 
+be easy stuff, haha. Togeter with the renderpath and material system, you can config whatever frames, and 
+can test a graphic algorithm efficiently with few little xml files. Those horrible things like SSAO, 
+volumetric light, screen-based fog, bloom, DOF will all be easy stuff.
   The engine has some render component hard coded, such as mesh/skinned-mesh, billboard group, 
 quadtree terrain, particles, so enjoy it by few lines of codes.  
 </pre>
    
 
- 
-
-
-***
 ## Editor 
 - hot loading
 - scene edit
