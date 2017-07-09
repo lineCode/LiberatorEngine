@@ -36,7 +36,7 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 - an in-house math lib
 
 ## Renderer
-- d3d11 
+- D3D11 
 - hlsl
 - Assimp based model converter
 - data driven pipeline
@@ -86,16 +86,7 @@ is persistent!!!
 # Samples
 
 Completed at 2017.5.18
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard.png)
 <br>
 <br>
