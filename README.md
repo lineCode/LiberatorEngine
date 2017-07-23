@@ -49,9 +49,6 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 - instancing
 - auto shader parameters management
 
-## Physics
-- Bullet
-- RigidBody Component
 
 
  <pre>
@@ -67,6 +64,9 @@ volumetric light, screen-based fog, bloom, DOF will all be easy stuff.
 quadtree terrain, particles, so enjoy it by few lines of codes.  
 </pre>
    
+## Physics
+- Bullet
+- RigidBody Component
 
 ## Editor 
 - hot loading
