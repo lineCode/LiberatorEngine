@@ -49,6 +49,11 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 - instancing
 - auto shader parameters management
 
+## Physics
+- Bullet
+- RigidBody Component
+
+
  <pre>
   The renderer is totally data-driven, which allow you to modify the renderpath to config any 
 combinated frames you want. The engine also has a customized material system. Basically the material 
