@@ -92,6 +92,15 @@ is persistent!!!
 
 Completed at 2017.5.18
 
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard.png)
 <br>
 <br>
