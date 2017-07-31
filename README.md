@@ -1,4 +1,4 @@
-# LiberatorEngine
+# LiberatorEngine3D
 
 ## Description
 A 3D game engine for creating high quality 3D scene. I spend 1 year to write the game engine during the last year of my college, and also reconstruct it few times. The name comes from a song called Liberators, by Epic score. Because the song sounds like 
