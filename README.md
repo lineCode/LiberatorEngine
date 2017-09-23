@@ -68,12 +68,20 @@ quadtree terrain, particles, so enjoy it by few lines of codes.
 - Bullet
 - RigidBody Component
 
+## GUI
+- in-house GUI, very fast
+
+## Animation
+- skeleton animation
+
 ## Editor 
 - hot loading
 - scene edit
 - view model
 - material edit
 - component edit
+
+
  
  <pre>
  The editor is designed to edit the scene, view the models, etc. Since the engine is entity-component based, 
