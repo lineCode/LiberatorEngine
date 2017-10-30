@@ -74,6 +74,10 @@ quadtree terrain, particles, so enjoy it by few lines of codes.
 ## Animation
 - skeleton animation
 
+## Script
+- lua
+- very unity3d mono-like script component 
+
 ## Editor 
 - hot loading
 - scene edit
@@ -99,6 +103,15 @@ is persistent!!!
 # Samples
 
 Completed at 2017.5.18
+
+
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/20171030215459735.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
 <br>
@@ -137,6 +150,9 @@ Completed at 2017.5.18
 <br>
 <br>
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
+
+
+
 
 
 
