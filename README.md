@@ -105,7 +105,8 @@ is persistent!!!
 Completed at 2017.5.18
 
 
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/20171030215459735.png)
+
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
 <br>
 <br>
 <br>
@@ -113,7 +114,7 @@ Completed at 2017.5.18
 <br>
 <br>
 
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/20171101182424250.png)
 <br>
 <br>
 <br>
