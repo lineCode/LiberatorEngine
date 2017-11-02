@@ -21,7 +21,7 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 <br>
 
 # Targets
-- a graphic engineer oriented engine
+- 1 vs 10000
 - easy to drive
 
 
