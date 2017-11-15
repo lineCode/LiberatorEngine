@@ -36,18 +36,19 @@ unfortunately, i cant get full mark. But it doesnt matter, i'm very happy.<br>
 - an in-house math lib
 
 ## Renderer
-- D3D11 
+- high performance D3D11 gfx
 - hlsl
+- shader plugin system
 - Assimp based model converter
 - data driven pipeline
 - multi-threading rendering
 - render components : skeleton animation,billboard, particle effect, quadtree terrain, decals
 - very customized and friendly material system
-- forward, deferred rendering switch
 - PCF shadow
 - Frustum culling
 - instancing
-- auto shader parameters management
+
+
 
 
 
