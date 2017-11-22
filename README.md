@@ -151,7 +151,7 @@ Completed at 2017.5.18
 <br>
 <br>
 <br>
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
+
 
 
 
