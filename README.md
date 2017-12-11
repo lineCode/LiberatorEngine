@@ -69,6 +69,7 @@ quadtree terrain, particles, so enjoy it by few lines of codes.
 - Bullet
 - RigidBody Component
 
+
 ## GUI
 - in-house GUI, very fast
 
@@ -77,7 +78,7 @@ quadtree terrain, particles, so enjoy it by few lines of codes.
 
 ## Script
 - lua
-- very unity3d mono-like script component 
+- unity3d mono-like script component 
 
 ## Editor 
 - hot loading
