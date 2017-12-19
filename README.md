@@ -75,6 +75,7 @@ quadtree terrain, particles, so enjoy it by few lines of codes.
 
 ## Animation
 - skeleton animation
+- animatin blueprint
 
 ## Script
 - lua
